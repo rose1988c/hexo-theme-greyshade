@@ -2,7 +2,8 @@ menu:
   Home: /
   Archives: archives
   page:
-    About: about
+    Link: /link
+    About: /about
 
 widgets:
 - tag
@@ -23,7 +24,7 @@ twitter:
   username:
 
 github:
-  username:
+  username: rose1988c
 
 gplus:
   username:
